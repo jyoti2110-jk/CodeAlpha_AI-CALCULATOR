@@ -66,7 +66,7 @@ AI-Calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Calculator.git
+git clone https://github.com/jyoti2110-jk/AI-CALCULATOR.git
 ```
 
 2. Open the project folder.
