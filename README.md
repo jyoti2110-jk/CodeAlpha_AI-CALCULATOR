@@ -2,18 +2,6 @@
 
 An AI-inspired calculator built using **HTML, CSS, and JavaScript** with a modern glassmorphism interface and smart interactive features.
 
-## 📸 Screenshots
-
-### 🌙 Dark Mode
-
-![Dark Mode](assets/dark-mode.png)
-
-### ☀️ Light Mode
-
-![Light Mode](assets/light-mode.png)
-
----
-
 ## ✨ Features
 
 - ➕ Addition
@@ -31,7 +19,7 @@ An AI-inspired calculator built using **HTML, CSS, and JavaScript** with a moder
 - 📱 Responsive Design
 - ✨ Glassmorphism User Interface
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -49,31 +37,14 @@ An AI-inspired calculator built using **HTML, CSS, and JavaScript** with a moder
 AI-Calculator/
 │
 ├── assets/
-│   ├── dark-mode.png
-│   ├── light-mode.png
+│   ├── ai calculator dark mode.png
+│   ├── ai calculator light mode.png
 │   
 │
 ├── index.html
-├── style.css
+├── index.css
 ├── script.js
 └── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/jyoti2110-jk/AI-CALCULATOR.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
----
 
 ## 💡 Future Improvements
 
